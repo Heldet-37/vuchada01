@@ -143,7 +143,7 @@ function Payments() {
             </div>
             <h3 className="text-lg font-semibold mb-2">Ajuda</h3>
             <p className="text-gray-600 text-sm">
-              Dúvidas? Entre em contato com nosso suporte: <span className="font-medium">84 123 4567</span>
+              Dúvidas? Entre em contato com nosso suporte: <span className="font-medium">872664074</span>
             </p>
           </div>
         </div>
