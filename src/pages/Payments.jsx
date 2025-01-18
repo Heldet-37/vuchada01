@@ -79,7 +79,7 @@ function Payments() {
                 <ol className="space-y-3 text-gray-600">
                   <li className="flex items-start space-x-3">
                     <span className="font-bold text-blue-500">1.</span>
-                    <span>Marque *555# no seu telefone</span>
+                    <span>Marque *898# no seu telefone</span>
                   </li>
                   <li className="flex items-start space-x-3">
                     <span className="font-bold text-blue-500">2.</span>
